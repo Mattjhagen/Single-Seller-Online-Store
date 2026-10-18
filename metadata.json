@@ -1,0 +1,6 @@
+{
+  "name": "VALENCE | Precision Goods & Everyday Carry",
+  "description": "High-performance direct-to-consumer store for precision EDC, artisan leathercraft, and audiophile gear with advanced filtering, PCI-compliant test checkout, and merchant admin suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
